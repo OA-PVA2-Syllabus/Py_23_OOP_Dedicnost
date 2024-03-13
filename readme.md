@@ -13,7 +13,7 @@ Vytvoř program, který bude obsahovat tři třídy - `Pořad`, `Film` a `Seriá
 
 Všem třídám přidej funkci getInfo(), která vypíše informace o pořadu, resp. o filmu a seriálu. Funkce u třídy `Pořad` vypíše název a žánr. Následně tuto funkci využij ve funkcích u tříd Film a Serial a přidej k ní informaci o délce, resp. počtu episod.
 
-Po naprogramování si vytvoř alespoň jeden objekt reprezentující film a seriál o ověr, že vše funguje.
+Po naprogramování si vytvoř alespoň jeden objekt reprezentující film a seriál o ověř, že vše funguje.
 
 
 ### 2 Shlédnutí
