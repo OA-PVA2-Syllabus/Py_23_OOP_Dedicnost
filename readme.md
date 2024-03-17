@@ -28,4 +28,4 @@ Vytvoř objekt, který reprezentuje nějakého uživatele. Následně zkus uvaž
 Zjisti celkovou délku shlédnutí videí uživatele. Výsledek zobraz uživateli v podobě `x dní, x hodin x minut`. Není-li délka shlédnutí alespoň jeden den, část x dní nezobrazuj. Obdobně pro hodiny.
 
 ### 3 Historie uživatele
-Rozšiř vlastnosti a metody našeho programu o sledování, jaké pořady uživatel sledoval.
+Rozšiř vlastnosti a metody našeho programu o sledování, jaké pořady uživatel sledoval. Vytvoř si ukázkové objekty a ověř, že vše funguje.
