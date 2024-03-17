@@ -29,3 +29,11 @@ Zjisti celkovou délku shlédnutí videí uživatele. Výsledek zobraz uživatel
 
 ### 3 Historie uživatele
 Rozšiř vlastnosti a metody našeho programu o sledování, jaké pořady uživatel sledoval. Vytvoř si ukázkové objekty a ověř, že vše funguje.
+
+### 4 Statistika platformy
+Z pohledu platformy nyní mám evidenci pořadů i evidenci uživatelů. Víme jaké pořady jednotliví uživatelé shlédli. Pro provoz platformy chcete znát základní statistické údaje. Zjistěte hodnoty následujících KPI:
+- nejoblíbenější pořad
+- uživatele s nejvíce shlédnutými pořady
+- průměrný počet shlédnutých pořadů za uživatele
+- průměrný počet shlédnutýh minut na uživatele
+- nejoblíbenější pořad aktuálního roku
