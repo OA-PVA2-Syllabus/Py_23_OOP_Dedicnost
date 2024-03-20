@@ -26,14 +26,3 @@ Třídě Uzivatel přidej funkci pro nápočet délky zhlédnutí, která bude m
 Vytvoř objekt, který reprezentuje nějakého uživatele. Následně zkus uvažovat situaci, že uživatel zhlédne film a seriál, které jsi vytvořil(a) jako objekty. Uživateli připočti délky pořadů k délce sledování. 
 
 Zjisti celkovou délku shlédnutí videí uživatele. Výsledek zobraz uživateli v podobě `x dní, x hodin x minut`. Není-li délka shlédnutí alespoň jeden den, část x dní nezobrazuj. Obdobně pro hodiny.
-
-### 3 Historie uživatele
-Rozšiř vlastnosti a metody našeho programu o sledování, jaké pořady uživatel sledoval. Vytvoř si ukázkové objekty a ověř, že vše funguje.
-
-### 4 Statistika platformy
-Z pohledu platformy nyní mám evidenci pořadů i evidenci uživatelů. Víme jaké pořady jednotliví uživatelé shlédli. Pro provoz platformy chcete znát základní statistické údaje. Zjistěte hodnoty následujících KPI:
-- nejoblíbenější pořad
-- uživatele s nejvíce shlédnutými pořady
-- průměrný počet shlédnutých pořadů za uživatele
-- průměrný počet shlédnutýh minut na uživatele
-- nejoblíbenější pořad aktuálního roku
