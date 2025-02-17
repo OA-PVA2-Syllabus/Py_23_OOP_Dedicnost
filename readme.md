@@ -1,5 +1,5 @@
 # PVA2 - Programování a vývoj aplikací
-## Lekce 22: OOP - Dědičnost
+## Lekce 23: OOP - Dědičnost
 
 ## Obsah
 
