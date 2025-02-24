@@ -16,7 +16,7 @@ Všem třídám přidej funkci getInfo(), která vypíše informace o pořadu, r
 Po naprogramování si vytvoř alespoň jeden objekt reprezentující film a seriál o ověř, že vše funguje.
 
 
-### 2 Shlédnutí
+### 2 Zhlédnutí
 Služba nyní eviduje uživatele, kteří službu využívají. Vytvoř třídu Uživatel, která bude mít atributy uživatelské jméno a délka sledování (v minutách), který udává celkovou délku pořadů, které uživatel zhlédl. Uživatelské jméno získej jako parametr a délka sledování je na začátku 0.
 
 Třídám Serial a Film přidej funkce pro zjištění celkové délky, která vrátí celkovou délku filmu/seriálu (u seriálu je to počet episod násobený délkou jedné epizody).
